@@ -25,7 +25,6 @@ public class Main {
                 System.out.print(" ");
             }
         }
-
         scanner.close();
     }
 }
