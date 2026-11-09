@@ -1,5 +1,6 @@
 package AlgoTasks.t02_sorting.zadanie21;
 
+import AlgoTasks.t02_sorting.Sorting;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

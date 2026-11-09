@@ -1,5 +1,6 @@
 package AlgoTasks.t02_sorting.zadanie21;
 
+import AlgoTasks.t02_sorting.Sorting;
 import java.util.List;
 
 public class InsertionSort implements Sorting<Integer> {

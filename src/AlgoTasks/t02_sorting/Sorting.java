@@ -1,4 +1,4 @@
-package AlgoTasks.t02_sorting.zadanie21;
+package AlgoTasks.t02_sorting;
 
 import java.util.List;
 
